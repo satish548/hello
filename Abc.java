@@ -5,4 +5,8 @@ public static void main(String args[]){
   System.out.println("My Second Commit");
 }
 
+public void thirdCommitMethod(){
+  System.out.println("Third Commit");
+}
+
 }
